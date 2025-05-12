@@ -18,8 +18,10 @@ Create the following diagrams in StarUML:
 
 ### Class Diagram:
 ![image](https://github.com/user-attachments/assets/3e447501-7618-46f6-942f-3c3de5755919)
+
 ### Activity Diagram:
-![image](https://github.com/user-attachments/assets/aaa21953-6063-46c4-b9b4-47f27554263e)
+![image](https://github.com/user-attachments/assets/296b1bef-a787-46e6-a07a-287202676d9b)
+
 
 ### Package Diagram:
 ![image](https://github.com/user-attachments/assets/48ceef37-4ee6-4eb3-b742-c0f8ebe3c1ed)
